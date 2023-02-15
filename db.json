@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Actors",
+      "link": "/"
+    },
+    {
+      "id": 2,
+      "name": "Shows",
+      "link": "/shows"
+    }
+  ],
+  "wishlistActors": {
+    "1855": {
+      "id": 1855,
+      "name": "Mike G.",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/189/474383.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/189/474383.jpg"
+      }
+    },
+    "5298": {
+      "id": 5298,
+      "name": "Bre Blair",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/3079.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3079.jpg"
+      }
+    },
+    "28377": {
+      "id": 28377,
+      "name": "Bre Mueck",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/155/388815.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/155/388815.jpg"
+      }
+    },
+    "68037": {
+      "id": 68037,
+      "name": "G. Hannelius",
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/48046.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/48046.jpg"
+      }
+    },
+    "74235": {
+      "id": 74235,
+      "name": "G. Garvin",
+      "image": null
+    },
+    "239982": {
+      "id": 239982,
+      "name": "S. Eyberg",
+      "image": null
+    },
+    "251480": {
+      "id": 251480,
+      "name": "G.R. Perera",
+      "image": null
+    },
+    "260537": {
+      "id": 260537,
+      "name": "G.R. Smith",
+      "image": null
+    }
+  },
+  "wishlistShows": {
+    "2583": {
+      "id": 2583,
+      "name": "Mr. Show",
+      "url": "https://www.tvmaze.com/shows/2583/mr-show",
+      "genres": [
+        "Comedy"
+      ],
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/13/34454.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/13/34454.jpg"
+      },
+      "summary": "<p><b>Mr. Show</b> was the insanely funny, critically loved but HBO-loathed sketch comedy that ran on the channel for 4 years from 1995-1998. The show was created, executive produced, written and starred comics/writers Bob Odenkirk and David Cross. The show also starred Tom Kenny, Jill Talley and John Ennis. Featured performers/writers included Paul F. Tompkins, Jerry Minor, B.J. Porter, Scott Aukerman, Brian Posehn, and Jay Johnston. Featured performers included Mary-Lynn Rajskub, Brett Paesal, and Sarah Silverman. The show has spawned a movie based on popular character Ronnie Dobbs in Run Ronnie Run. Bob's wife, Naomi Odenkirk, has compiled everything you could ever want to know about the show in her wonderful book, Mr. Show: What Happened.</p>"
+    }
+  },
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
