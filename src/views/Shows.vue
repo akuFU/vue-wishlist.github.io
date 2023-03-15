@@ -30,7 +30,6 @@ export default {
 		searchValue: '',
 		controller: new AbortController(),
 		result: {},
-		test: ''
 	}),
 	
 	methods: {

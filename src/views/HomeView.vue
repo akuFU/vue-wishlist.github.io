@@ -24,20 +24,8 @@ export default {
 	data: () => ({
 		searchValue: '',
 		controller: new AbortController(),
-		result: '',
-		test: ''
+		result: ''
 	}),
-	
-	async mounted() {
-	
-		const response1 = await fetch (`http://localhost:3000/posts`, {
-				method: 'GET'
-			
-			});
-		this.test = await response1.json();
-		console.log(this.test[0].title);
-	
-	},
 	
 	methods: {
 	
